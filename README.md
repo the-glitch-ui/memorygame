@@ -1,6 +1,7 @@
 # Memory game in React
 
-> Having fun putting to practice my knowledge on React + JavaScript ES6+
+> Memory cards game in React.
+> Demo: https://the-glitch-ui.github.io/memorygame/
 
 ## Table of contents
 
@@ -20,11 +21,11 @@ Starting from a create-react-app, this project updates the UI taking the card ob
 
 ## Screenshots
 
-![Memory Game](./img_memory.jpg)
+![Memory Game](https://github.com/the-glitch-ui/memorygame/blob/master/img_memory.jpg)
 
 ## Built with
 
-- React - version 16.13.1 (create-react-app)
+- React - version 16.13.1 [(create-react-app)](https://github.com/facebook/create-react-app)
 
 ## Setup
 
@@ -84,4 +85,4 @@ Shuffle function inspired on Sandra Israel-Ovirih's and Nguyen Quyet's
 
 ## Contact
 
-Created by [@theglitchui](https://www./)
+Created by [The Glitch UI](https://github.com/the-glitch-ui)
