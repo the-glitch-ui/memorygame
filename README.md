@@ -1,6 +1,7 @@
 # Memory game in React
 
 > Memory cards game in React.
+
 > Demo: https://the-glitch-ui.github.io/memorygame/
 
 ## Table of contents
