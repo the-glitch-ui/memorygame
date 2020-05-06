@@ -7,7 +7,7 @@
 
 - [General info](#general-info)
 - [Screenshots](#screenshots)
-- [Technologies](#technologies)
+- [Built with](#built-with)
 - [Setup](#setup)
 - [Features](#features)
 - [Skills practised](#skills)
@@ -29,7 +29,9 @@ Starting from a create-react-app, this project updates the UI taking the card ob
 
 ## Setup
 
-Clone and "npm start"
+- Clone
+- npm install
+- npm start
 
 ## Features
 
@@ -81,7 +83,7 @@ Project is: _finished_
 
 ## Inspiration
 
-Shuffle function inspired on Sandra Israel-Ovirih's and Nguyen Quyet's
+Shuffle function inspired on [Sandra Israel-Ovirih](https://github.com/sandraisrael)'s and [Nguyen Quyet](https://medium.com/@cqpro)'s
 
 ## Contact
 
